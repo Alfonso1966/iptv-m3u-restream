@@ -1,6 +1,6 @@
 {
   "extUrl"    : "https://good-ruby-bison-tie.cyclic.app",
-  "m3uSrc"    : "http://live.geoiptv.org:8880/get.php?username=64292742&password=54545155&type=m3u&output=ts",
+  "m3uSrc"    : "http://showplustv.pro/get.php?username=3rnh4908&password=40499f9a&type=m3u&output=ts",
   "port"      : 3666,
   "numWorkers": 3,
   "blacklist" : [],
