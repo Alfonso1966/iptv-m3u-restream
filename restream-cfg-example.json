@@ -1,6 +1,6 @@
 {
-  "extUrl"    : "https://my.own.server/iptv/",
-  "m3uSrc"    : "http://typical.iptv.org:6655/get.php?username=myusername&password=mypassword&type=m3u_plus&output=ts",
+  "extUrl"    : "https://alert-sombrero-pig.cyclic.app/iptv/",
+  "m3uSrc"    : "http://showplustv.pro/get.php?username=ALFTV&password=95e9590e&type=m3u&output=ts",
   "port"      : 3666,
   "numWorkers": 3,
   "blacklist" : [],
